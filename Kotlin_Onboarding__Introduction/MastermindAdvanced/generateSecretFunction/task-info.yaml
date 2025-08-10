@@ -1,0 +1,26 @@
+type: edu
+custom_name: Mastermind Advanced - generateSecret Function
+files:
+  - name: src/main/kotlin/jetbrains/kotlin/course/mastermind/advanced/Main.kt
+    visible: true
+    learner_created: false
+  - name: src/main/kotlin/jetbrains/kotlin/course/mastermind/advanced/Util.kt
+    visible: false
+    learner_created: false
+  - name: test/MainClass.kt
+    visible: false
+    learner_created: false
+  - name: test/MastermindTestUtil.kt
+    visible: false
+    learner_created: false
+  - name: test/Methods.kt
+    visible: false
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 13 Jul 2025 15:39:07 UTC"
+record: 43
