@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="21">
+      <module name="CSC_Kotlin_Course_Part2.aliasServer-task.main" target="11" />
+      <module name="CSC_Kotlin_Course_Part2.aliasServer-task.test" target="11" />
+      <module name="CSC_Kotlin_Course_Part2.codenamesServer-task.main" target="11" />
+      <module name="CSC_Kotlin_Course_Part2.codenamesServer-task.test" target="11" />
+      <module name="CSC_Kotlin_Course_Part2.common.main" target="11" />
+      <module name="CSC_Kotlin_Course_Part2.common.test" target="11" />
+      <module name="CSC_Kotlin_Course_Part2.FeedbackSurvey-Survey.main" target="11" />
+      <module name="CSC_Kotlin_Course_Part2.FeedbackSurvey-Survey.test" target="11" />
+      <module name="CSC_Kotlin_Course_Part2.introduction-task.main" target="11" />
+      <module name="CSC_Kotlin_Course_Part2.introduction-task.test" target="11" />
+      <module name="CSC_Kotlin_Course_Part2.memoryTrainerServer-task.main" target="11" />
+      <module name="CSC_Kotlin_Course_Part2.memoryTrainerServer-task.test" target="11" />
+      <module name="CSC_Kotlin_Course_Part2.utils.main" target="11" />
+      <module name="CSC_Kotlin_Course_Part2.utils.test" target="11" />
+      <module name="CSC_Kotlin_Course_Part2.wordsGeneratorServer-task.main" target="11" />
+      <module name="CSC_Kotlin_Course_Part2.wordsGeneratorServer-task.test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="CSC_Kotlin_Course_Part2.aliasServer-task" options="-parameters" />
+      <module name="CSC_Kotlin_Course_Part2.aliasServer-task.main" options="-parameters" />
+      <module name="CSC_Kotlin_Course_Part2.aliasServer-task.test" options="-parameters" />
+      <module name="CSC_Kotlin_Course_Part2.codenamesServer-task" options="-parameters" />
+      <module name="CSC_Kotlin_Course_Part2.codenamesServer-task.main" options="-parameters" />
+      <module name="CSC_Kotlin_Course_Part2.codenamesServer-task.test" options="-parameters" />
+      <module name="CSC_Kotlin_Course_Part2.memoryTrainerServer-task" options="-parameters" />
+      <module name="CSC_Kotlin_Course_Part2.memoryTrainerServer-task.main" options="-parameters" />
+      <module name="CSC_Kotlin_Course_Part2.memoryTrainerServer-task.test" options="-parameters" />
+      <module name="CSC_Kotlin_Course_Part2.wordsGeneratorServer-task" options="-parameters" />
+      <module name="CSC_Kotlin_Course_Part2.wordsGeneratorServer-task.main" options="-parameters" />
+      <module name="CSC_Kotlin_Course_Part2.wordsGeneratorServer-task.test" options="-parameters" />
+    </option>
+  </component>
+</project>

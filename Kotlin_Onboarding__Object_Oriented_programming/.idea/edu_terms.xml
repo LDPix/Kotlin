@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="TermsProjectSettings">
+    <currentTermsLanguage>en</currentTermsLanguage>
+    <terms>
+      <map>
+        <entry key="en">
+          <value>
+            <map>
+              <entry key="23870911">
+                <value>
+                  <list>
+                    <Term value="groupingBy" definition="A built-in Kotlin function used to group elements of a collection by a given selector function." />
+                    <Term value="eachCount" definition="A Kotlin function that counts the occurrences of elements in a grouping created by the `groupingBy` function." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="40149330">
+                <value>
+                  <list>
+                    <Term value="`fun interface`" definition="A Kotlin keyword used to define a SAM interface that must have exactly one function which is implemented later in a class." />
+                    <Term value="StringGenerator" definition="An example SAM interface in Kotlin with a 'generate' function that takes a list of characters and returns a string, which must be implemented in a class." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="55659744">
+                <value>
+                  <list>
+                    <Term value="Mutable list" definition="In Kotlin, Mutable List is a type of List collection that allows modification such as addition or removal of elements. To create a mutable list, you use the 'mutableListOf' function explicitly." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="58157421">
+                <value>
+                  <list>
+                    <Term value="Stat" definition="A class in Kotlin that stores statistics, with properties `knownBacks` and `unknownBacks` of type `List&lt;Back&gt;` to hold known and unknown countries." />
+                    <Term value="stat" definition="A class in Kotlin that stores statistics, with properties `knownBacks` and `unknownBacks` of type `List&lt;Back&gt;` to hold known and unknown countries." />
+                    <Term value="StatService" definition="A class in Kotlin that manages statistics using methods to add new entries to `history` and retrieve the reversed `history` list." />
+                    <Term value="companion object" definition="An object in Kotlin that allows members of a class to be accessed in a static-like way, such as the `history` property in `StatService`." />
+                    <Term value="MutableList" definition="In Kotlin, a class representing a mutable list that can be modified by adding or removing elements." />
+                    <Term value="mutableList" definition="In Kotlin, a class representing a mutable list that can be modified by adding or removing elements." />
+                    <Term value="reversed()" definition="A built-in Kotlin function that returns a new list with its elements in reverse order." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="86593419">
+                <value>
+                  <list>
+                    <Term value="identifierFactory" definition="A class used to generate unique identifiers. It contains a default value for the `counter` property, so no explicit initialization is needed." />
+                    <Term value="IdentifierFactory" definition="A class used to generate unique identifiers. It contains a default value for the `counter` property, so no explicit initialization is needed." />
+                    <Term value="MutableMap" definition="A type of map in Kotlin that allows for storing key-value pairs and modifying them. It supports operations like adding, removing, or updating entries." />
+                    <Term value="putIfAbsent" definition="A built-in Kotlin function for `MutableMap` that inserts a new value into the map only if the specified key is not already present." />
+                    <Term value="forEach" definition="A built-in Kotlin function that allows iteration over each element in a collection, applying the specified action to each." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="112732984">
+                <value>
+                  <list>
+                    <Term value="KeyCard" definition="In the game, a KeyCard shows the location of words and their corresponding colors for the two leaders." />
+                    <Term value="keyCard" definition="In the game, a KeyCard shows the location of words and their corresponding colors for the two leaders." />
+                    <Term value="KeyCardType" definition="An enum class in Kotlin which stores four values: Pink, Violet, Gray, and Black, each initialized with an Int value named 'number' to represent the usage count derived from a Utils object." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="173021464">
+                <value>
+                  <list>
+                    <Term value="identifierFactory" definition="In Kotlin, a type used to generate unique identifiers for cards." />
+                    <Term value="IdentifierFactory" definition="In Kotlin, a type used to generate unique identifiers for cards." />
+                    <Term value="extension function" definition="In Kotlin, a function that extends the capabilities of a class without modifying its source code." />
+                    <Term value="companion object" definition="In Kotlin, a singleton object associated with a class that allows defining variables or functions similar to static members in Java." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="207903953">
+                <value>
+                  <list>
+                    <Term value="CardSequenceGenerator" definition="A type used to generate random sequences of cards." />
+                    <Term value="generateCards" definition="A function that converts pairs of capital to country into Card objects, shuffles the list, and returns it." />
+                    <Term value="generateNewCardsSequence" definition="A function that uses randomCardGenerator to call generateCards and converts the result into a mutable list." />
+                    <Term value="getNextCard" definition="A function that removes the first element from the cards list and returns it." />
+                    <Term value="startNewGame" definition="A function that initializes a new sequence of cards by calling generateNewCardsSequence and returns the first card using getNextCard." />
+                    <Term value="shuffle" definition="A built-in function used to shuffle the contents of a list in a random order." />
+                    <Term value="shuffled" definition="A built-in function used to shuffle the contents of a list in a random order." />
+                    <Term value="isNotEmpty" definition="A built-in function that checks if a list is not empty." />
+                    <Term value="removeFirst" definition="A built-in function that removes the first element from a mutable list and returns it." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="394992839">
+                <value>
+                  <list>
+                    <Term value="companion object" definition="A companion object in Kotlin allows storing variables or functions specific to a class that can be accessed directly via the class name without requiring an instance of the class." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="407421606">
+                <value>
+                  <list>
+                    <Term value="List" definition="In Kotlin, List stores a list of objects of the same type, such as List&lt;Int&gt;." />
+                    <Term value="list" definition="In Kotlin, List stores a list of objects of the same type, such as List&lt;Int&gt;." />
+                    <Term value="Map" definition="In Kotlin, Map stores key-value pairs such that all keys are different but the values can be the same. It is similar to an address book." />
+                    <Term value="map" definition="In Kotlin, Map stores key-value pairs such that all keys are different but the values can be the same. It is similar to an address book." />
+                    <Term value="maps" definition="In Kotlin, Map stores key-value pairs such that all keys are different but the values can be the same. It is similar to an address book." />
+                    <Term value="mapOf" definition="In Kotlin, mapOf is used to create a read-only Map." />
+                    <Term value="mutableMapOf" definition="In Kotlin, mutableMapOf is used to create a mutable Map where new elements can be added." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="451797165">
+                <value>
+                  <list>
+                    <Term value="Type aliases" definition="A feature in Kotlin that allows defining an alternative name for an existing type, often used to shorten long type names." />
+                    <Term value="type alias" definition="A feature in Kotlin that allows defining an alternative name for an existing type, often used to shorten long type names." />
+                    <Term value="type aliases" definition="A feature in Kotlin that allows defining an alternative name for an existing type, often used to shorten long type names." />
+                    <Term value="Classes" definition="In Kotlin, a class is a blueprint for creating objects, using the 'class' keyword to define it." />
+                    <Term value="class" definition="In Kotlin, a class is a blueprint for creating objects, using the 'class' keyword to define it." />
+                    <Term value="primary constructor" definition="In Kotlin, the main constructor of a class, used to initialize properties of an instance." />
+                    <Term value="Access modifiers" definition="A keyword in Kotlin that specifies the visibility of classes, properties, or methods, like 'public' or 'private'." />
+                    <Term value="access modifiers" definition="A keyword in Kotlin that specifies the visibility of classes, properties, or methods, like 'public' or 'private'." />
+                    <Term value="access modifier" definition="A keyword in Kotlin that specifies the visibility of classes, properties, or methods, like 'public' or 'private'." />
+                    <Term value="Methods" definition="In Kotlin, a function defined inside a class that can be called on its instances." />
+                    <Term value="methods" definition="In Kotlin, a function defined inside a class that can be called on its instances." />
+                    <Term value="method" definition="In Kotlin, a function defined inside a class that can be called on its instances." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="457834256">
+                <value>
+                  <list>
+                    <Term value="value class" definition="In Kotlin, a value class is a special kind of class that wraps around a single property while maintaining immutability and efficiency." />
+                    <Term value="data class" definition="In Kotlin, a data class is a class specifically designed to hold data where the primary purpose is to store state and automatically generates methods like equals, hashCode, and toString." />
+                    <Term value="Identifier" definition="Identifier is a type that may need to be explicitly imported in Kotlin to use as part of a class property or functionality." />
+                    <Term value="List&lt;Word&gt;" definition="In Kotlin, List&lt;Word&gt; specifies a list structure containing elements of type Word, allowing storage and manipulation of multiple Word objects." />
+                    <Term value="String" definition="In Kotlin, String represents a sequence of characters used to work with text." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="684273302">
+                <value>
+                  <list>
+                    <Term value="value class" definition="In Kotlin, a value class is a special type of class meant to efficiently encapsulate a single value, avoiding object overhead." />
+                    <Term value="companion object" definition="In Kotlin, a companion object is an object that is declared inside a class and allows to define properties and functions that can be called on the class without an instance." />
+                    <Term value="const" definition="In Kotlin, 'const' is used to declare compile-time constant values that must be initialized with a value known at compile time." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="806214430">
+                <value>
+                  <list>
+                    <Term value="type alias" definition="In Kotlin, a type alias is used to create a named alias for a type, allowing easy replacement in the future." />
+                    <Term value="type aliases" definition="In Kotlin, a type alias is used to create a named alias for a type, allowing easy replacement in the future." />
+                    <Term value="data class" definition="In Kotlin, a data class is a class primarily used to store data and has automatically implemented methods like toString, equals, and hashCode." />
+                    <Term value="companion object" definition="In Kotlin, a companion object is an object associated with a class that allows defining static-like properties and methods." />
+                    <Term value="access modifiers" definition="Access modifiers in Kotlin, such as 'private' or 'public', determine the visibility and accessibility of properties or methods." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="859031761">
+                <value>
+                  <list>
+                    <Term value="MutableList" definition="In Kotlin, MutableList is a type of list that allows modification, such as adding or removing elements." />
+                    <Term value="KeyCardCell" definition="KeyCardCell represents one cell in a key card in the coding game context, used to store specific values." />
+                    <Term value="KeyCardGenerator" definition="KeyCardGenerator is a generator in Kotlin used to create unique key cards by implementing the specified logic." />
+                    <Term value="immutable field" definition="An immutable field in Kotlin is a field whose value cannot be changed once initialized, denoted with `val`." />
+                    <Term value="shuffle" definition="The shuffled function in Kotlin is used to randomly shuffle the contents of a list and return a new list." />
+                    <Term value="shuffled" definition="The shuffled function in Kotlin is used to randomly shuffle the contents of a list and return a new list." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="924415411">
+                <value>
+                  <list>
+                    <Term value="enum classes" definition="In Kotlin, enum classes are marked with the special keyword 'enum' and are used to define a set of constants. They support properties and methods for each value." />
+                    <Term value="Enum classes" definition="In Kotlin, enum classes are marked with the special keyword 'enum' and are used to define a set of constants. They support properties and methods for each value." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="927161772">
+                <value>
+                  <list>
+                    <Term value="require" definition="A built-in Kotlin function used to check conditions and throw an IllegalArgumentException if the condition is not met." />
+                    <Term value="shuffle" definition="A built-in function in Kotlin that randomly shuffles the contents of a list." />
+                    <Term value="shuffled" definition="A built-in function in Kotlin that randomly shuffles the contents of a list." />
+                    <Term value="taking" definition="A built-in Kotlin function that takes the first N elements from a list." />
+                    <Term value="take" definition="A built-in Kotlin function that takes the first N elements from a list." />
+                    <Term value="drop" definition="A built-in Kotlin function that drops the first N elements from a list." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="985850465">
+                <value>
+                  <list>
+                    <Term value="Packages" definition="In Kotlin, a package is a structure that contains one or more Kotlin files, with files linked to the package using a package header. Each file belongs to exactly one package." />
+                    <Term value="packages" definition="In Kotlin, a package is a structure that contains one or more Kotlin files, with files linked to the package using a package header. Each file belongs to exactly one package." />
+                    <Term value="package" definition="In Kotlin, a package is a structure that contains one or more Kotlin files, with files linked to the package using a package header. Each file belongs to exactly one package." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="995021701">
+                <value>
+                  <list>
+                    <Term value="IllegalArgumentException" definition="An exception that is thrown in Kotlin when a method has been passed an illegal or inappropriate argument." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="995182624">
+                <value>
+                  <list>
+                    <Term value="companion objects" definition="In Kotlin, companion objects are a feature that allows you to define a single instance of a class and associate it with the class itself, making it accessible without creating an object instance." />
+                    <Term value="objects" definition="In Kotlin, 'objects' refers to a feature for creating a class that always has exactly one instance, using the 'object' keyword." />
+                    <Term value="object" definition="In Kotlin, 'objects' refers to a feature for creating a class that always has exactly one instance, using the 'object' keyword." />
+                    <Term value="Objects" definition="In Kotlin, 'objects' refers to a feature for creating a class that always has exactly one instance, using the 'object' keyword." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1089941254">
+                <value>
+                  <list>
+                    <Term value="data class" definition="In Kotlin, a data class is a class primarily used to hold data. It automatically generates utility functions like equals(), hashCode(), toString(), and copy()." />
+                    <Term value="immutable field" definition="An immutable field in programming refers to a variable whose value, once assigned, cannot be changed." />
+                    <Term value="interface" definition="An interface in Kotlin defines a contract that classes can implement, containing abstract methods that the implementing class must override." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1096807938">
+                <value>
+                  <list>
+                    <Term value="JvmInline annotation" definition="The JvmInline annotation in Kotlin is used with value classes to indicate that their usage should be optimized by the compiler, avoiding additional object allocation." />
+                    <Term value="value class" definition="A value class in Kotlin is a special kind of class that wraps a value and provides a way to avoid unnecessary object allocations." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1162498861">
+                <value>
+                  <list>
+                    <Term value="Const variables" definition="In Kotlin, the `const` modifier is used for variables that remain unchanged, known as compile-time constants. These constants must have primitive types like `String` or `Int`, cannot be initialized by functions, and are typically declared inside companion objects or objects." />
+                    <Term value="Extension functions" definition="In Kotlin, extension functions allow you to add new member functions to existing classes without modifying their original code. They are defined using the class name followed by a dot and the function name." />
+                    <Term value="extension function" definition="In Kotlin, extension functions allow you to add new member functions to existing classes without modifying their original code. They are defined using the class name followed by a dot and the function name." />
+                    <Term value="compile-time constants" definition="Compile-time constants in Kotlin are variables with the `const` modifier, constrained to primitive types such as `String` or `Int`. They are evaluated at compile time and must adhere to specific rules like capitalization and placement inside objects." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1332363990">
+                <value>
+                  <list>
+                    <Term value="Data classes" definition="In Kotlin, a data class is a class primarily intended to hold data and is marked with the 'data' keyword. It must have at least one property." />
+                    <Term value="data class" definition="In Kotlin, a data class is a class primarily intended to hold data and is marked with the 'data' keyword. It must have at least one property." />
+                    <Term value="Properties outside the constructor" definition="In a Kotlin data class, properties can be defined outside the primary constructor. However, such properties do not participate in all automatically implemented functions of the data class." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1333495904">
+                <value>
+                  <list>
+                    <Term value="SAM interface" definition="A SAM (Single Abstract Method) interface in Kotlin is an interface with a single abstract method. It is typically used for functional programming." />
+                    <Term value="value class" definition="A value class in Kotlin is a special kind of class that wraps a value and provides inline features to improve performance." />
+                    <Term value="JvmInline annotation" definition="The JvmInline annotation in Kotlin is used to mark a value class for JVM-specific optimization to inline its use during runtime." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1406965141">
+                <value>
+                  <list>
+                    <Term value="functional interfaces (SAM)" definition="Functional interfaces, or SAM (Single Abstract Method) interfaces, are used when different entities share the same functionality but can be implemented in different ways. For example, the `KeyCardGenerator` SAM interface in a game." />
+                    <Term value="interfaces" definition="An interface describes entities that may contain more than one function and also may have properties. For example, in Kotlin, the keyword `interface` is used to define interfaces." />
+                    <Term value="interface" definition="An interface describes entities that may contain more than one function and also may have properties. For example, in Kotlin, the keyword `interface` is used to define interfaces." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1424731246">
+                <value>
+                  <list>
+                    <Term value="Annotations" definition="In Kotlin, annotations are means of attaching metadata to code, usually starting with `@` in code." />
+                    <Term value="annotations" definition="In Kotlin, annotations are means of attaching metadata to code, usually starting with `@` in code." />
+                    <Term value="annotation" definition="In Kotlin, annotations are means of attaching metadata to code, usually starting with `@` in code." />
+                    <Term value="Value classes" definition="A special class in Kotlin that wraps only one property, used for optimizations during program execution, and must be marked with the `JvmInline` annotation." />
+                    <Term value="value class" definition="A special class in Kotlin that wraps only one property, used for optimizations during program execution, and must be marked with the `JvmInline` annotation." />
+                    <Term value="type aliases" definition="A feature in Kotlin that introduces an alternative name (alias) for an existing type and is assignment-compatible with its underlying type." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1471451877">
+                <value>
+                  <list>
+                    <Term value="companion object" definition="In Kotlin, a companion object is a singleton object whose properties and functions are tied to a containing class." />
+                    <Term value="isNotEmpty" definition="The isNotEmpty function in Kotlin is a built-in method used to check if a collection or string is not empty." />
+                    <Term value="all" definition="In Kotlin, the all function is a built-in method used to check if all elements in a collection match a given condition." />
+                    <Term value="reversed" definition="The reversed function in Kotlin is used to return a list where the order of elements is reversed compared to the original list." />
+                    <Term value="reverse" definition="The reversed function in Kotlin is used to return a list where the order of elements is reversed compared to the original list." />
+                    <Term value="MutableList" definition="MutableList in Kotlin is a collection interface that allows for modification of its elements, such as adding or removing items." />
+                    <Term value="In" definition="The in operator in Kotlin is used to check if an element belongs to a collection or range." />
+                    <Term value="in" definition="The in operator in Kotlin is used to check if an element belongs to a collection or range." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1569405567">
+                <value>
+                  <list>
+                    <Term value="initializer blocks" definition="Initializer blocks in Kotlin, denoted with the `init` keyword, allow additional code to be executed at the moment of creating an instance of a class or an object." />
+                    <Term value="Initializer blocks" definition="Initializer blocks in Kotlin, denoted with the `init` keyword, allow additional code to be executed at the moment of creating an instance of a class or an object." />
+                    <Term value="require" definition="In Kotlin, the `require` function evaluates a condition and throws an IllegalArgumentException if the condition is false." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1609028519">
+                <value>
+                  <list>
+                    <Term value="type alias" definition="A type alias in Kotlin allows you to provide an alternative name for an existing type. For example, `typealias GameResult = List&lt;Team&gt;` creates a type alias named GameResult for a list of Team objects." />
+                    <Term value="companion object" definition="In Kotlin, a companion object is an object declaration inside a class that can hold members related to the class. These members can be accessed in a static-like way." />
+                    <Term value="MutableList" definition="In Kotlin, MutableList is a List that supports read and write operations, allowing you to add or remove items after it is created." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1640803251">
+                <value>
+                  <list>
+                    <Term value="interface" definition="In Kotlin, an interface is a type that can be used to specify a set of methods that a class must implement." />
+                    <Term value="List" definition="In Kotlin, a List is a collection that holds elements in a specific order and allows duplicate entries." />
+                    <Term value="`generateCards`" definition="A function in the `CardSequenceGenerator` interface that accepts no parameters and returns a `List&lt;Card&gt;` to represent card sequences." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1654026416">
+                <value>
+                  <list>
+                    <Term value="data class" definition="A data class in Kotlin is used to store data and provides automatically implemented methods like `toString`, `equals`, and `hashCode`." />
+                    <Term value="primary constructor" definition="In Kotlin, the primary constructor is a concise way to define and initialize a class with properties." />
+                    <Term value="importing" definition="The `import` statement in Kotlin allows you to use specific members of a package, such as classes or functions, in your code." />
+                    <Term value="import" definition="The `import` statement in Kotlin allows you to use specific members of a package, such as classes or functions, in your code." />
+                    <Term value="Identifier" definition="An `Identifier` is used to uniquely identify an instance, such as a team in a game." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1831801481">
+                <value>
+                  <list>
+                    <Term value="enum class" definition="In Kotlin, an enum class is used to define a set of constants. For example, the `CardState` enum class defines constants `Front` and `Back` to represent the state of cards." />
+                    <Term value="data class" definition="In Kotlin, a data class is used to store data. For example, the `Card` class must be a data class to store `data` and `state` for each card." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1867251728">
+                <value>
+                  <list>
+                    <Term value="type alias" definition="Type alias allows creating an alternative name for an existing type, which simplifies code and ensures future ease of changing types." />
+                    <Term value="type aliases" definition="Type alias allows creating an alternative name for an existing type, which simplifies code and ensures future ease of changing types." />
+                    <Term value="Identifier" definition="Identifier is a type alias for the 'Int' type, used for creating utility entities like game card or team identifiers in Kotlin." />
+                    <Term value="identifiers" definition="Identifier is a type alias for the 'Int' type, used for creating utility entities like game card or team identifiers in Kotlin." />
+                    <Term value="identifier" definition="Identifier is a type alias for the 'Int' type, used for creating utility entities like game card or team identifiers in Kotlin." />
+                    <Term value="default values" definition="Default values in Kotlin allow properties or function parameters to have pre-defined values, which simplify instance creation or function calls." />
+                    <Term value="default value" definition="Default values in Kotlin allow properties or function parameters to have pre-defined values, which simplify instance creation or function calls." />
+                    <Term value="short notation" definition="Short notation in Kotlin allows simplifying a function's implementation by writing it in a single expression." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1933501778">
+                <value>
+                  <list>
+                    <Term value="TeamService" definition="A class in the package `jetbrains.kotlin.course.words.generator.team` responsible for the game logic for teams." />
+                    <Term value="teamsStorage" definition="A variable declared in the companion object of the `TeamService` class. It is of type `MutableMap` of `Identifier` to `Team` and is initialized as an empty map to store all previous team data." />
+                    <Term value="generateTeamsForOneRound" definition="A method in the `TeamService` class that generates a list of teams and stores them in the `teamsStorage` map." />
+                    <Term value="List(N) { Team() }" definition="A Kotlin construct used to generate a new list with `N` elements, where each element is a new instance of the `Team` class with default properties." />
+                    <Term value="putIfAbsent" definition="A built-in Kotlin function used with maps to add a new key-value pair if the key is not already present in the map." />
+                    <Term value="forEach" definition="A built-in Kotlin function used to perform an action on each element of a collection, such as a list or map." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1955972196">
+                <value>
+                  <list>
+                    <Term value="KeyCardService" definition="The KeyCardService class is responsible for the game logic for the key card in the Kotlin codenames application." />
+                    <Term value="generateKeyCard" definition="The generateKeyCard function is responsible for returning a new instance of the KeyCard class, enabling functionality for the game." />
+                    <Term value="keyCard" definition="KeyCard is a class that can be instantiated using KeyCard() to generate key cards for the game. It has a default value for the 'cells' field." />
+                    <Term value="KeyCard" definition="KeyCard is a class that can be instantiated using KeyCard() to generate key cards for the game. It has a default value for the 'cells' field." />
+                  </list>
+                </value>
+              </entry>
+            </map>
+          </value>
+        </entry>
+      </map>
+    </terms>
+    <termsVersions>
+      <map>
+        <entry key="en" value="17" />
+      </map>
+    </termsVersions>
+  </component>
+</project>

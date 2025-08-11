@@ -1,0 +1,11 @@
+type: framework
+custom_name: Memory Trainer Project
+content:
+  - memoryTrainerServerIntroduction
+  - memoryTrainerServerHowToRun
+  - memoryTrainerServerCardModel
+  - memoryTrainerServerCardSequenceGenerator
+  - memoryTrainerServerCardService
+  - memoryTrainerServerFinishGame
+is_template_based: false
+current_task: 0

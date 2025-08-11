@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CSC_Kotlin_Course_Part2.iml" filepath="$PROJECT_DIR$/.idea/modules/CSC_Kotlin_Course_Part2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FeedbackSurvey/Survey/CSC_Kotlin_Course_Part2.FeedbackSurvey-Survey.iml" filepath="$PROJECT_DIR$/.idea/modules/FeedbackSurvey/Survey/CSC_Kotlin_Course_Part2.FeedbackSurvey-Survey.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FeedbackSurvey/Survey/CSC_Kotlin_Course_Part2.FeedbackSurvey-Survey.main.iml" filepath="$PROJECT_DIR$/.idea/modules/FeedbackSurvey/Survey/CSC_Kotlin_Course_Part2.FeedbackSurvey-Survey.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FeedbackSurvey/Survey/CSC_Kotlin_Course_Part2.FeedbackSurvey-Survey.test.iml" filepath="$PROJECT_DIR$/.idea/modules/FeedbackSurvey/Survey/CSC_Kotlin_Course_Part2.FeedbackSurvey-Survey.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aliasServer/task/CSC_Kotlin_Course_Part2.aliasServer-task.iml" filepath="$PROJECT_DIR$/.idea/modules/aliasServer/task/CSC_Kotlin_Course_Part2.aliasServer-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aliasServer/task/CSC_Kotlin_Course_Part2.aliasServer-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/aliasServer/task/CSC_Kotlin_Course_Part2.aliasServer-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aliasServer/task/CSC_Kotlin_Course_Part2.aliasServer-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/aliasServer/task/CSC_Kotlin_Course_Part2.aliasServer-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/codenamesServer/task/CSC_Kotlin_Course_Part2.codenamesServer-task.iml" filepath="$PROJECT_DIR$/.idea/modules/codenamesServer/task/CSC_Kotlin_Course_Part2.codenamesServer-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/codenamesServer/task/CSC_Kotlin_Course_Part2.codenamesServer-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/codenamesServer/task/CSC_Kotlin_Course_Part2.codenamesServer-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/codenamesServer/task/CSC_Kotlin_Course_Part2.codenamesServer-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/codenamesServer/task/CSC_Kotlin_Course_Part2.codenamesServer-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/CSC_Kotlin_Course_Part2.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/CSC_Kotlin_Course_Part2.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/CSC_Kotlin_Course_Part2.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/CSC_Kotlin_Course_Part2.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/CSC_Kotlin_Course_Part2.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/CSC_Kotlin_Course_Part2.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/introduction/task/CSC_Kotlin_Course_Part2.introduction-task.iml" filepath="$PROJECT_DIR$/.idea/modules/introduction/task/CSC_Kotlin_Course_Part2.introduction-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/introduction/task/CSC_Kotlin_Course_Part2.introduction-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/introduction/task/CSC_Kotlin_Course_Part2.introduction-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/introduction/task/CSC_Kotlin_Course_Part2.introduction-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/introduction/task/CSC_Kotlin_Course_Part2.introduction-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CSC_Kotlin_Course_Part2.main.iml" filepath="$PROJECT_DIR$/.idea/modules/CSC_Kotlin_Course_Part2.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/memoryTrainerServer/task/CSC_Kotlin_Course_Part2.memoryTrainerServer-task.iml" filepath="$PROJECT_DIR$/.idea/modules/memoryTrainerServer/task/CSC_Kotlin_Course_Part2.memoryTrainerServer-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/memoryTrainerServer/task/CSC_Kotlin_Course_Part2.memoryTrainerServer-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/memoryTrainerServer/task/CSC_Kotlin_Course_Part2.memoryTrainerServer-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/memoryTrainerServer/task/CSC_Kotlin_Course_Part2.memoryTrainerServer-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/memoryTrainerServer/task/CSC_Kotlin_Course_Part2.memoryTrainerServer-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CSC_Kotlin_Course_Part2.test.iml" filepath="$PROJECT_DIR$/.idea/modules/CSC_Kotlin_Course_Part2.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/utils/CSC_Kotlin_Course_Part2.utils.iml" filepath="$PROJECT_DIR$/.idea/modules/utils/CSC_Kotlin_Course_Part2.utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/utils/CSC_Kotlin_Course_Part2.utils.main.iml" filepath="$PROJECT_DIR$/.idea/modules/utils/CSC_Kotlin_Course_Part2.utils.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/utils/CSC_Kotlin_Course_Part2.utils.test.iml" filepath="$PROJECT_DIR$/.idea/modules/utils/CSC_Kotlin_Course_Part2.utils.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wordsGeneratorServer/task/CSC_Kotlin_Course_Part2.wordsGeneratorServer-task.iml" filepath="$PROJECT_DIR$/.idea/modules/wordsGeneratorServer/task/CSC_Kotlin_Course_Part2.wordsGeneratorServer-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wordsGeneratorServer/task/CSC_Kotlin_Course_Part2.wordsGeneratorServer-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/wordsGeneratorServer/task/CSC_Kotlin_Course_Part2.wordsGeneratorServer-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wordsGeneratorServer/task/CSC_Kotlin_Course_Part2.wordsGeneratorServer-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/wordsGeneratorServer/task/CSC_Kotlin_Course_Part2.wordsGeneratorServer-task.test.iml" />
+    </modules>
+  </component>
+</project>
