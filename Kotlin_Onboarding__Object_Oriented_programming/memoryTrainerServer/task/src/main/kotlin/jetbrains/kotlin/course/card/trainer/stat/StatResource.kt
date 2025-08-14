@@ -9,8 +9,6 @@ class Result (
     val unknown: RoundStat
 )
 
-typealias Stat = String
-
 @RestController
 @RequestMapping("/api/stat/")
 class StatResource(val service: StatService) {

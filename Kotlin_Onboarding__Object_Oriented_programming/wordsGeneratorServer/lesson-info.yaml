@@ -9,4 +9,4 @@ content:
   - wordsGeneratorServerWordService
   - wordsGeneratorServerFinishGame
 is_template_based: false
-current_task: 2
+current_task: 6

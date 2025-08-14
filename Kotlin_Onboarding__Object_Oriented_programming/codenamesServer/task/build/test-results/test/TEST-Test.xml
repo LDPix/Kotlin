@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test" tests="12" skipped="0" failures="0" errors="0" timestamp="2025-08-14T16:41:11.298Z" hostname="Nikitas-MacBook-Pro.local" time="0.212">
+  <properties/>
+  <testcase name="cardDataInterfaceTestClassTest()" classname="Test" time="0.008"/>
+  <testcase name="keyCardServiceTestClassTest()" classname="Test" time="0.108"/>
+  <testcase name="keyCardTestClassTest()" classname="Test" time="0.021"/>
+  <testcase name="cardServiceTestClassTest()" classname="Test" time="0.012"/>
+  <testcase name="utilObjectExtendedTestClassTest()" classname="Test" time="0.006"/>
+  <testcase name="cardStateTestClassTest()" classname="Test" time="0.046"/>
+  <testcase name="cardTestClassTest()" classname="Test" time="0.002"/>
+  <testcase name="utilObjectConstValuesTest()" classname="Test" time="0.001"/>
+  <testcase name="wordCardDataTestClassTest()" classname="Test" time="0.001"/>
+  <testcase name="keyCardGeneratorTestClassTest()" classname="Test" time="0.0"/>
+  <testcase name="utilObjectTestClassTest()" classname="Test" time="0.001"/>
+  <testcase name="keyCardTypeTestClassTest()" classname="Test" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
